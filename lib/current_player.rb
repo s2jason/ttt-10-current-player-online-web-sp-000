@@ -1,5 +1,5 @@
 def turn_count(board)
-  players = ["X","O"]
+  spaces = [" ","O"]
   counter = 0
   players.each do |players|
     
