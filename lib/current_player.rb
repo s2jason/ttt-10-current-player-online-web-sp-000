@@ -4,5 +4,5 @@ def turn_count(board)
   players.each do |players|
     
     counter += 1
-  
+  end
 end
